@@ -36,12 +36,15 @@ object Form1: TForm1
       end
       object SATUAN1: TMenuItem
         Caption = 'SATUAN'
+        OnClick = SATUAN1Click
       end
       object SUPPLIER1: TMenuItem
         Caption = 'SUPPLIER'
+        OnClick = SUPPLIER1Click
       end
       object KUSTOMER1: TMenuItem
         Caption = 'KUSTOMER'
+        OnClick = KUSTOMER1Click
       end
     end
     object RANSAKSI1: TMenuItem

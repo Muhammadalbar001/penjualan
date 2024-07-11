@@ -11,6 +11,12 @@ type
     ZConnection1: TZConnection;
     Zkategori: TZQuery;
     dskategori: TDataSource;
+    Zsatuan: TZQuery;
+    dssatuan: TDataSource;
+    Zsupplier: TZQuery;
+    dssupplier: TDataSource;
+    Zkustomer: TZQuery;
+    dskustomer: TDataSource;
   private
     { Private declarations }
   public

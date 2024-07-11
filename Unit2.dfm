@@ -14,9 +14,9 @@ object Form2: TForm2
   PixelsPerInch = 96
   TextHeight = 13
   object Label1: TLabel
-    Left = 152
-    Top = 64
-    Width = 90
+    Left = 88
+    Top = 62
+    Width = 74
     Height = 18
     Caption = 'USERNAME'
     Font.Charset = DEFAULT_CHARSET
@@ -27,9 +27,9 @@ object Form2: TForm2
     ParentFont = False
   end
   object Label2: TLabel
-    Left = 152
-    Top = 104
-    Width = 93
+    Left = 88
+    Top = 102
+    Width = 77
     Height = 18
     Caption = 'PASSWORD'
     Font.Charset = DEFAULT_CHARSET
@@ -40,30 +40,30 @@ object Form2: TForm2
     ParentFont = False
   end
   object Edit1: TEdit
-    Left = 285
-    Top = 59
+    Left = 221
+    Top = 57
     Width = 129
     Height = 21
     TabOrder = 0
   end
   object Button1: TButton
-    Left = 285
-    Top = 147
+    Left = 221
+    Top = 145
     Width = 129
     Height = 33
     Caption = 'CLOSE'
     TabOrder = 1
   end
   object Edit2: TEdit
-    Left = 285
-    Top = 99
+    Left = 221
+    Top = 97
     Width = 129
     Height = 21
     TabOrder = 2
   end
   object Button2: TButton
-    Left = 149
-    Top = 147
+    Left = 85
+    Top = 145
     Width = 129
     Height = 33
     Caption = 'LOGIN'
